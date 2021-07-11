@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Imatou/typescript-for-javascript-dev/issues"
   },
-  "homepage": "https://github.com/Imatou/typescript-for-javascript-dev#readme"
+  "homepage": "https://github.com/Imatou/typescript-for-javascript-dev#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
